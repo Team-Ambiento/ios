@@ -1,14 +1,13 @@
-#ios
+# ios
 Ambiento App
 
-##Versions
+## Versions
 Xcode Version: 10.1
 Swift Version: 4.2
 
 
-###Frameworks 
+### Frameworks 
 
 ```
 Alamofire: 4.7
-
 ```
