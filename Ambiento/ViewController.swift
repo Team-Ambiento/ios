@@ -49,13 +49,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var energy: UILabel!
     
     
-    struct data2 {
-        public let user: String
-        public let track: String
-        public let colorrgb: UIColor
-        public let colorhex: String
-        public let happyness: Double
-    }
     
     @IBAction func login(_ sender: Any) {
         Alamofire.request("\(ServerURL)/service/spotify/login?token=\(key)").responseJSON { response in
