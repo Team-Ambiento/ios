@@ -6,6 +6,7 @@ A very basic looking Swift App.
 ```
 Xcode Version: 10.1
 Swift Version: 4.2
+Tested Devices: iPhone 8 & 8 Plus
 ```
 
 ### Frameworks 
